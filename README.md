@@ -49,7 +49,7 @@ for(int i=0; i < argc-1; i++){
     printf("%d! = %d\n", fx[i], hx[i]);
     }
     return 0;
-    ```
+```
     
 SOAL 2 :
 Tujuan nomer 2 adalah membuat suatu program server penjual dan pembeli serta client penjual dan pembeli yang dapat dihubungkan oleh user untuk dapat mengakses suatu stok barang yang merupakan shared memory, yang dimana jika user tersebut terhubung dengan server penjual maka user dapat menambahkan stok barang dan dapat menampilkan stock barang. Begitu juga dengan server pembeli, user dapat membeli stock sehingga dapat mengurangi nilai dari stock barang.
